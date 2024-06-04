@@ -37,12 +37,12 @@ Para rodar o projeto, siga os seguintes passos:
 
 4. Execute o script `neuron.py`:
     ```bash
-    python neuron.py
+    python3 neuron.py
     ```
 
 5. Execute o script `torch_net.py`:
     ```bash
-    python torch_net.py
+    python3 torch_net.py
     ```
 
 Note que os comandos acima estão assumindo que o usuário está usando Linux. Caso esteja usando Windows, substitua `python3` por `python` e `venv/bin/activate` por `venv\Scripts\activate`.
